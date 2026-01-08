@@ -1,7 +1,7 @@
 # BLM101_24360859076_VeliEmreErsoy
 24360859076 Veli Emre Ersoy BLM101 Proje Ödevi
 
-Youtube Linki:
+Youtube Linki: https://www.youtube.com/watch?v=iVaK_5XFcSE
 
 📦 Run-Length Encoding (RLE) – Python Veri Sıkıştırma Projesi
 
